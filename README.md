@@ -27,7 +27,7 @@ A comprehensive solution to manage volunteers, tasks, attendance, and events eff
 ![Volunteer List Screenshot](./assets/screenshots/volunteer-list.png)
 
 ### Event Management Interface
-![Event Management Screenshot](./assets/screenshots/event-management.png)
+![Event Management Screenshot](./assets/screenshots/event.png)
 
 > *Note: Screenshots showcase the clean, user-friendly interface with responsive design using Tailwind CSS.*
 

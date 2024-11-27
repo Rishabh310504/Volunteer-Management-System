@@ -65,5 +65,24 @@ Before you begin, ensure you have the following installed:
 ---
 
 ### Step-by-Step Setup
+1. Clone the Repository
+   Open your terminal and run the following commands:
 
+   git clone https://github.com/Rishabh310504/Volunteer-Management-System.git
+   cd Volunteer-Management-System
 
+2. Install Dependencies
+   npm install
+   
+3. Set Up Environment Variables:
+   MONGO_URI=mongodb://localhost:27017/volunteer_management
+   PORT=5000
+   
+4. Start the Server:
+   cd backend
+   node server.js
+   
+5. Start the Application:
+   cd frontend
+   npm start    
+  

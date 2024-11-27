@@ -79,8 +79,12 @@ Before you begin, ensure you have the following installed:
    PORT=5000<br>
    
 4. Start the Server:<br>
-   cd backend<br>
-   node server.js<br>
+   Step 1. Install MongoDB and MongoDB Compass<br>
+   Step 2. Create new connection <br>
+   Step 3. Create a New Database in MongoDB Compass <br>
+   Step 4. Test the Connection <br>
+       cd backend<br>
+       node server.js<br>
    
 5. Start the Application:<br>
    cd frontend<br>

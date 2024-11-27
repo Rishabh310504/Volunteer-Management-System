@@ -24,24 +24,24 @@ A comprehensive solution to manage volunteers, tasks, attendance, and events eff
 ## UI Preview 📱
 
 ### Volunteer List
-![Volunteer List Screenshot](https://via.placeholder.com/600x300?text=Volunteer+List+Preview)
+![Volunteer List Screenshot](./assets/screenshots/volunteer-list.png)
 
 ### Event Management Interface
-![Event Management Screenshot](https://via.placeholder.com/600x300?text=Event+Management+Preview)
+![Event Management Screenshot](./assets/screenshots/event-management.png)
 
-*Note: Screenshots above showcase the clean, user-friendly interface with responsive design using Tailwind CSS.*
+> *Note: Screenshots showcase the clean, user-friendly interface with responsive design using Tailwind CSS.*
 
 ---
 
 ## Technologies Used 💻
 
 - **Frontend**:  
-  - HTML, CSS, JavaScript
-  - **React.js** (for dynamic, interactive UI)
+  - HTML, CSS, JavaScript  
+  - **React.js** (for dynamic, interactive UI)  
   - **Tailwind CSS** (for responsive and customizable design)
 
 - **Backend**:  
-  - **Node.js**
+  - **Node.js**  
   - **Express.js** (RESTful API for handling requests)
 
 - **Database**:  
@@ -58,13 +58,12 @@ A comprehensive solution to manage volunteers, tasks, attendance, and events eff
 
 Before you begin, ensure you have the following installed:
 
-- [Node.js](https://nodejs.org/) (v14 or above)
-- [MongoDB](https://www.mongodb.com/) (for local development)
+- [Node.js](https://nodejs.org/) (v14 or above)  
+- [MongoDB](https://www.mongodb.com/) (for local development)  
 - [Git](https://git-scm.com/) (for cloning the repository)
+
+---
 
 ### Step-by-Step Setup
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Rishabh310504/Volunteer-Management-System.git
-   cd Volunteer-Management-System
+
